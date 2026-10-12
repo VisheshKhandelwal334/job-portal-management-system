@@ -1,0 +1,9 @@
+target/
+out/
+logs/
+reports/
+db.properties
+*.class
+.idea/
+.vscode/
+*.iml
